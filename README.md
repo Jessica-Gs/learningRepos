@@ -1,0 +1,2 @@
+This is a repository meant for my own journey in learning to use Github and Git as well as the overall concept of version control.
+The files contained within the repository are simple practice programs created throughout the Codedex learning platform.
